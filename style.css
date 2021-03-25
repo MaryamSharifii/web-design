@@ -1,0 +1,7 @@
+.collapse navbar-collapse{
+    display:flex;
+    justify-content: space-between;
+} 
+.first{
+    margin: 30px 0px;
+}

@@ -1,7 +1,27 @@
+*{
+    direction: rtl;
+}
 .collapse navbar-collapse{
     display:flex;
     justify-content: space-between;
 } 
 .first{
     margin: 30px 0px;
+}
+.card h-100{
+    margin: 30px;
+}
+.card-img-top{
+    height: 150px;
+}
+footer{
+    background-color: rgba(66, 62, 62, 0.938);
+    color: rgba(218, 210, 210, 0.938);
+    display: grid;
+    grid-template-columns: 65% 35%;
+}
+footer + ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: ;
 }

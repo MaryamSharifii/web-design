@@ -66,7 +66,9 @@ h5{
 .star-icon .far{
     color: gold;
 }
-
+.buttens button i:hover{
+    transition: margin-right 2s;;
+}
 footer{
     background-color: rgba(66, 62, 62, 0.938);
     color: rgba(231, 221, 221, 0.856);

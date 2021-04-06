@@ -66,8 +66,9 @@ h5{
 .star-icon .far{
     color: gold;
 }
-.buttens button i:hover{
-    transition: margin-right 2s;;
+.card-body .buttens button :hover{
+    transition: 2s , .5s;
+    /* transition-property: none; */
 }
 footer{
     background-color: rgba(66, 62, 62, 0.938);
